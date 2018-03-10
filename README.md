@@ -1,7 +1,7 @@
 # Ip-Attack
 Auto IP or Domain Attack Tool ( #1 )
 
-# Name
+# @Name
 
 [![20180310_163405.png](https://s18.postimg.org/ghvwft31l/20180310_163405.png)](https://postimg.org/image/s6zw3ru05/)
 
@@ -14,3 +14,22 @@ Auto IP or Domain Attack Tool ( #1 )
 
 # installation
 
+✔ apt update
+
+✔ apt upgrade
+
+✔ apt install git python python2
+
+✔ cd $HOME
+
+✔ git clone https://github.com/Bhai4You/Ip-Attack
+
+✔ cd Ip-Attack
+
+✔ chmod +x requirement.sh ip-attack.py
+
+✔ bash requirement.sh
+
+✔ python2 ip-attack.py
+
+✔ Done...!!
