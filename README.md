@@ -3,8 +3,7 @@ Auto IP or Domain Attack Tool ( #1 )
 
 # @Name
 
-[![20180310_163405.png](https://s18.postimg.org/ghvwft31l/20180310_163405.png)](https://postimg.org/image/s6zw3ru05/)
-
+[![20180311_074606.png](https://s13.postimg.org/9qllp2qaf/20180311_074606.png)](https://postimg.org/image/wfason7o3/)
 
 # Screenshot
 
