@@ -26,6 +26,8 @@
 import sys
 import time
 import os
+from urllib2 import *
+from platform import system
 print
 print
 print
@@ -143,14 +145,16 @@ def nmap():
 	print(" ")
 
 
+
 def plink():
 	print
 	print
 	os.system("toilet -f pagga 'Page Link       ' | lolcat")
 	time.sleep(1)
 	print
-	os.system("curl https://api.hackertarget.com/pagelink/?q=" + ip)
+	os.system("curl https://api.hackertarget.com/pagelinks/?q=" + ip)
 	print(" ")
+
 
 	print
 	print
