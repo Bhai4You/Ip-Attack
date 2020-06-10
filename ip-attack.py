@@ -6,10 +6,10 @@
 #  Name 	:  IP Attack
 #  Platform	:  Android Termux
 #  Code		:  Python
-#  Sec.Code	:  8h4i
-#  Coded by	:  Sutariya Parixit
-#  Site 		:  bhai4you.blogspot.com
-#  Github	:  https://github.com/Bhai4You
+#  Sec.Code	:  B4dd3r
+#  Coded by	:  B4dd3rC7b3r
+#  Site 		:  B4dd3rC7b3r.blogspot.com
+#  Github	:  https://github.com/B4dd3rC7b3r
 #
 #
 #
