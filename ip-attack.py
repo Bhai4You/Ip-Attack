@@ -28,6 +28,8 @@ import time
 import os
 from urllib2 import *
 from platform import system
+os.system("espeak 'Hello, Sir Ip-Attack tool is ready to use.' &")
+os.system("espeak 'Tool created by Smutariya Pmarixit' &")
 print
 print
 print
