@@ -1,36 +1,21 @@
 # Ip-Attack
 Auto IP or Domain Attack Tool ( #1 )
 
-# @Name
-[![20180311_081316.png](https://s13.postimg.org/h94qxghkn/20180311_081316.png)](https://postimg.org/image/s8py927zn/)
-
-# Screenshot
-
-
-[![Screenshot_2018-03-10-22-02-05.png](https://s18.postimg.org/oyveqz7t5/Screenshot_2018-03-10-22-02-05.png)](https://postimg.org/image/r3frs29fp/)
-
 # installation
+<pre>apt update -y && apt upgrade -y && apt install git python2 -y && git clone https://github.com/Bhai4You/Ip-Attack && cd Ip-Attack && bash requirement.sh && python2 ip-attack.py</pre>
 
-✔ apt update
+copy above code and paste in termux that's it.
 
-✔ apt upgrade
+## Termux Tutorials & Learn Cybersecurity
+<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
+<pre> 
+  Features :
+  - Cool UI
+  - Author Info
+  - 100+ Working Termux Tools
+  - Install any tool with single commands !
+  - and much more..
 
-✔ apt install git python python2
-
-✔ cd $HOME
-
-✔ git clone https://github.com/Bhai4You/Ip-Attack
-
-✔ cd Ip-Attack
-
-✔ chmod +x requirement.sh ip-attack.py
-
-✔ bash requirement.sh
-
-✔ python2 ip-attack.py
-
-✔ Done...!!
-
-## Download App
-  <a href="https://bit.ly/termuxdetective"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_detective.gif" alt="Termux Detective" width="900" height="60"></a>
-  <br>
+  Visit our site :
+  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
+</pre>
